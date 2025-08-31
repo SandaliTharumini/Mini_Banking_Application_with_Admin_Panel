@@ -10,7 +10,7 @@ The application consists of two main components:
 
 •	Displays detailed transaction history for each account.
 
-3. Admin Panel
+2. Admin Panel
    
 The Admin Panel provides comprehensive oversight of the banking system. Key features include:
 
